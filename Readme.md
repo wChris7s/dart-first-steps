@@ -33,4 +33,16 @@
 
 - Un Iterable en Dart es una colección de elementos que se pueden recorrer o iterar. Los objetos de tipo Iterable son colecciones de elementos que se pueden acceder secuencialmente o a través de un iterador.
 
-// 13
+## Future
+
+- Es un objeto que contiene un valor que se calculará en algún momento en el futuro.
+- Es asíncrono
+
+## Constructores
+
+- Los constructores se definen al igual que otros lenguajes con el nombre de la clase. No se puede crear varios constructores, para lograrlo se debe utilizar constructores con nombre.
+- Los constructores por nombre son una forma de definir constructores en Dart. Los constructores por nombre se definen utilizando el nombre de la clase seguido de un punto y el nombre del constructor.
+
+## Datos
+
+- La idea de interfaces y clases abstractas son diferentes entre Java y Dart.
